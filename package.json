@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sa02045/OOP-Chess.git"
   },
+  "type": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/sa02045/OOP-Chess#readme",
   "devDependencies": {
+    "@types/node": "^20.8.4",
     "typescript": "^5.2.2"
   }
 }
